@@ -4,9 +4,9 @@ Configuración de entorno colaborativo con Git y GitHub Actions.
 
 ## Requerimientos Técnicos
 
-* Gestión de repositorio.
-* Documentación avanzada.
-* Automatización CI.
+* Gestión de repositorio..
+* Documentación avanzada..
+* Automatización CI..
 
 ## Instalación
 
