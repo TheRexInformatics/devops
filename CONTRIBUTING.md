@@ -1,4 +1,3 @@
-**Contenido para `CONTRIBUTING.md`:**
 ```markdown
 # Guía de Contribución
 
