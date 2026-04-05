@@ -1,4 +1,3 @@
-```markdown
 # Guía de Contribución
 
 Para colaborar en este proyecto, sigue estos pasos:
